@@ -1,0 +1,33 @@
+/workspaces/GSound-SIR/ray_generator/build/temp.linux-x86_64-cpython-310/CMakeFiles/test.dir
+/workspaces/GSound-SIR/ray_generator/build/temp.linux-x86_64-cpython-310/CMakeFiles/edit_cache.dir
+/workspaces/GSound-SIR/ray_generator/build/temp.linux-x86_64-cpython-310/CMakeFiles/rebuild_cache.dir
+/workspaces/GSound-SIR/ray_generator/build/temp.linux-x86_64-cpython-310/lib/pybind11/CMakeFiles/test.dir
+/workspaces/GSound-SIR/ray_generator/build/temp.linux-x86_64-cpython-310/lib/pybind11/CMakeFiles/edit_cache.dir
+/workspaces/GSound-SIR/ray_generator/build/temp.linux-x86_64-cpython-310/lib/pybind11/CMakeFiles/rebuild_cache.dir
+/workspaces/GSound-SIR/ray_generator/build/temp.linux-x86_64-cpython-310/src/Om/CMakeFiles/test.dir
+/workspaces/GSound-SIR/ray_generator/build/temp.linux-x86_64-cpython-310/src/Om/CMakeFiles/edit_cache.dir
+/workspaces/GSound-SIR/ray_generator/build/temp.linux-x86_64-cpython-310/src/Om/CMakeFiles/rebuild_cache.dir
+/workspaces/GSound-SIR/ray_generator/build/temp.linux-x86_64-cpython-310/src/Om/Om Framework/CMakeFiles/om-framework.dir
+/workspaces/GSound-SIR/ray_generator/build/temp.linux-x86_64-cpython-310/src/Om/Om Framework/CMakeFiles/test.dir
+/workspaces/GSound-SIR/ray_generator/build/temp.linux-x86_64-cpython-310/src/Om/Om Framework/CMakeFiles/edit_cache.dir
+/workspaces/GSound-SIR/ray_generator/build/temp.linux-x86_64-cpython-310/src/Om/Om Framework/CMakeFiles/rebuild_cache.dir
+/workspaces/GSound-SIR/ray_generator/build/temp.linux-x86_64-cpython-310/src/Om/Om BVH/CMakeFiles/om-bvh.dir
+/workspaces/GSound-SIR/ray_generator/build/temp.linux-x86_64-cpython-310/src/Om/Om BVH/CMakeFiles/test.dir
+/workspaces/GSound-SIR/ray_generator/build/temp.linux-x86_64-cpython-310/src/Om/Om BVH/CMakeFiles/edit_cache.dir
+/workspaces/GSound-SIR/ray_generator/build/temp.linux-x86_64-cpython-310/src/Om/Om BVH/CMakeFiles/rebuild_cache.dir
+/workspaces/GSound-SIR/ray_generator/build/temp.linux-x86_64-cpython-310/src/Om/Om Resources/CMakeFiles/om-resources.dir
+/workspaces/GSound-SIR/ray_generator/build/temp.linux-x86_64-cpython-310/src/Om/Om Resources/CMakeFiles/test.dir
+/workspaces/GSound-SIR/ray_generator/build/temp.linux-x86_64-cpython-310/src/Om/Om Resources/CMakeFiles/edit_cache.dir
+/workspaces/GSound-SIR/ray_generator/build/temp.linux-x86_64-cpython-310/src/Om/Om Resources/CMakeFiles/rebuild_cache.dir
+/workspaces/GSound-SIR/ray_generator/build/temp.linux-x86_64-cpython-310/src/Om/Om Sound/CMakeFiles/om-sound.dir
+/workspaces/GSound-SIR/ray_generator/build/temp.linux-x86_64-cpython-310/src/Om/Om Sound/CMakeFiles/test.dir
+/workspaces/GSound-SIR/ray_generator/build/temp.linux-x86_64-cpython-310/src/Om/Om Sound/CMakeFiles/edit_cache.dir
+/workspaces/GSound-SIR/ray_generator/build/temp.linux-x86_64-cpython-310/src/Om/Om Sound/CMakeFiles/rebuild_cache.dir
+/workspaces/GSound-SIR/ray_generator/build/temp.linux-x86_64-cpython-310/src/GSound/CMakeFiles/gsound.dir
+/workspaces/GSound-SIR/ray_generator/build/temp.linux-x86_64-cpython-310/src/GSound/CMakeFiles/test.dir
+/workspaces/GSound-SIR/ray_generator/build/temp.linux-x86_64-cpython-310/src/GSound/CMakeFiles/edit_cache.dir
+/workspaces/GSound-SIR/ray_generator/build/temp.linux-x86_64-cpython-310/src/GSound/CMakeFiles/rebuild_cache.dir
+/workspaces/GSound-SIR/ray_generator/build/temp.linux-x86_64-cpython-310/src/pygsound/CMakeFiles/pygsound.dir
+/workspaces/GSound-SIR/ray_generator/build/temp.linux-x86_64-cpython-310/src/pygsound/CMakeFiles/test.dir
+/workspaces/GSound-SIR/ray_generator/build/temp.linux-x86_64-cpython-310/src/pygsound/CMakeFiles/edit_cache.dir
+/workspaces/GSound-SIR/ray_generator/build/temp.linux-x86_64-cpython-310/src/pygsound/CMakeFiles/rebuild_cache.dir

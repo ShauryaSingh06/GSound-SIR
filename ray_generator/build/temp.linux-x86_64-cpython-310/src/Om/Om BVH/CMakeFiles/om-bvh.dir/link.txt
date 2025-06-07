@@ -1,0 +1,2 @@
+/usr/bin/ar qc Release/lib/libom-bvh.a "CMakeFiles/om-bvh.dir/om/bvh/omAABBTree4.cpp.o" "CMakeFiles/om-bvh.dir/om/bvh/omBVHBVH.cpp.o" "CMakeFiles/om-bvh.dir/om/bvh/omBVHGeometry.cpp.o" "CMakeFiles/om-bvh.dir/om/bvh/omBVHInstance.cpp.o" "CMakeFiles/om-bvh.dir/om/bvh/omBVHScene.cpp.o"
+/usr/bin/ranlib Release/lib/libom-bvh.a

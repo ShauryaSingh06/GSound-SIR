@@ -1,0 +1,2 @@
+# Empty dependencies file for om-framework.
+# This may be replaced when dependencies are built.

@@ -1,0 +1,2 @@
+from spatial_audio_generator import generate_spatial_audio
+spatial_audio, sample_rate = generate_spatial_audio("/workspaces/GSound-SIR/ray_generator/examples/path_data_shoebox_real.json", "/workspaces/GSound-SIR/1272-128104-0002.flac")

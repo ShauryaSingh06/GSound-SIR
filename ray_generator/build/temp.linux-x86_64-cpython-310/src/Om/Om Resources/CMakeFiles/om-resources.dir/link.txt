@@ -1,0 +1,2 @@
+/usr/bin/ar qc Release/lib/libom-resources.a "CMakeFiles/om-resources.dir/om/resources/omResourceFormat.cpp.o" "CMakeFiles/om-resources.dir/om/resources/omResourceManager.cpp.o" "CMakeFiles/om-resources.dir/om/resources/omResourceMode.cpp.o" "CMakeFiles/om-resources.dir/om/resources/omResourceModule.cpp.o" "CMakeFiles/om-resources.dir/om/resources/omResourceSet.cpp.o" "CMakeFiles/om-resources.dir/om/resources/omResourceType.cpp.o"
+/usr/bin/ranlib Release/lib/libom-resources.a
